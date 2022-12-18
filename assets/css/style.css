@@ -152,3 +152,6 @@ button:hover {
     border-radius: 5%;
 }
 
+span {
+    font-weight: 700;
+}
